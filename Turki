@@ -25,7 +25,7 @@ scriptSection:NewButton("سكربت ماب البيوت", "...?", function()
 end)
 
 scriptSection:NewButton("سكربت الادمن", "infinite yield", function()
-    loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
 end)
 
 scriptSection:NewButton("سكربت بلوكس فروت مو HOHO", "Mama Hup", function()
