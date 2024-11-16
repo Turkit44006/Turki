@@ -1,6 +1,19 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Turki's script", "DarkTheme")
 
+--MAIN
+local Main = Window:NewTab("التواصل")
+
+local MainSection = Main:NewSection("V سنابي V")
+local MainSection = Main:NewSection("t44006")
+local MainSection = Main:NewSection("V حسابي الاصلي V")
+local MainSection = Main:NewSection("x_x511sd")
+local MainSection = Main:NewSection("V حسابي مايك V")
+local MainSection = Main:NewSection("Rttllp")
+local MainSection = Main:NewSection("V ديسكورد V")
+local MainSection = Main:NewSection("t44006")
+local MainSection = Main:NewSection("يالله حيه")
+
 --LOCAL SCRIPT
 local script = Window:NewTab("سكربتات")
 
@@ -50,8 +63,15 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
-scriptSection:NewButton(" ", " ...? ", function()
-    loadstring(game:HttpGet(" "))()
+scriptSection:NewButton("Rivals D ", " ...? ", function()
+    local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua'
+local response = game:HttpGet(scriptURL)
+local executeScript = loadstring(response)
+executeScript()
+end)
+
+scriptSection:NewButton("Rivals T ", " ", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zeynwq/main/main/rivals1"))()()
 end)
 
 --Other
