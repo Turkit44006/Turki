@@ -22,10 +22,6 @@ scriptSection:NewButton("سكربت بلوكس فروت HOHO ", "Hoho Hup", func
     loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()   
 end)
 
-scriptSection:NewButton("spy", "تقدر تشوف ناس وش تكتب خاص, function()
-    loadstring(game:HttpGet('https://pastebin.com/raw/Q2atuWxh'))()   
-end)
-
 scriptSection:NewButton("بت ساميليتور", "...", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
 end)
