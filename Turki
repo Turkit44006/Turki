@@ -24,10 +24,6 @@ scriptSection:NewButton("سكربت ماب البيوت", "...?", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
 end)
 
-scriptSection:NewButton("سكربت الادمن", "infinite yield", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
-end)
-
 scriptSection:NewButton("سكربت بلوكس فروت مو HOHO", "Mama Hup", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
 end)
