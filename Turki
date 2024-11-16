@@ -1,0 +1,279 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Turki's script", "DarkTheme")
+
+--MAIN
+local Main = Window:NewTab("التواصل")
+
+local MainSection = Main:NewSection("V سنابي V")
+local MainSection = Main:NewSection("t44006")
+local MainSection = Main:NewSection("V حسابي الاصلي V")
+local MainSection = Main:NewSection("x_x511sd")
+local MainSection = Main:NewSection("V حسابي مايك V")
+local MainSection = Main:NewSection("Rttllp")
+local MainSection = Main:NewSection("V ديسكورد V")
+local MainSection = Main:NewSection("t44006")
+local MainSection = Main:NewSection("يالله حيه")
+
+--LOCAL SCRIPT
+local script = Window:NewTab("سكربتات")
+
+local scriptSection = script:NewSection("سكربتاتي")
+
+scriptSection:NewButton("سكربت ماب البيوت", "...?", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
+end)
+
+scriptSection:NewButton("سكربت الادمن", "infinite yield", function()
+    loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()    
+end)
+
+scriptSection:NewButton("سكربت بلوكس فروت مو HOHO", "Mama Hup", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
+end)
+
+scriptSection:NewButton("سكربت بلوكس فروت HOHO ", "Hoho Hup", function()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()   
+end)
+
+scriptSection:NewButton("spy", "تقدر تشوف ناس وش تكتب خاص, function()
+    loadstring(game:HttpGet('https://pastebin.com/raw/Q2atuWxh'))()   
+end)
+
+scriptSection:NewButton("بت ساميليتور", "...", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+end)
+
+scriptSection:NewButton("MM2", " ", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/3ilx_T1/main/mm2"))()
+end)
+
+scriptSection:NewButton("شادر رهيب تبي اغير لك الاوان قلي (الوان الجو)", "شادر رهيب", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/xox511sd/x_x511sd/main/Turkii"))()
+end)
+
+scriptSection:NewButton("سكربت طيران", "سكربت طيران سهل للجوال", function()
+    loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\40\39\104\116\116\112\115\58\47\47\103\105\115\116\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\109\101\111\122\111\110\101\89\84\47\98\102\48\51\55\100\102\102\57\102\48\97\55\48\48\49\55\51\48\52\100\100\100\54\55\102\100\99\100\51\55\48\47\114\97\119\47\101\49\52\101\55\52\102\52\50\53\98\48\54\48\100\102\53\50\51\51\52\51\99\102\51\48\98\55\56\55\48\55\52\101\98\51\99\53\100\50\47\97\114\99\101\117\115\37\50\53\50\48\120\37\50\53\50\48\102\108\121\37\50\53\50\48\50\37\50\53\50\48\111\98\102\108\117\99\97\116\111\114\39\41\44\116\114\117\101\41\41\40\41\10\10")()
+end)
+
+scriptSection:NewButton("مسدس جاذبيه ينفع على الاشياء فقط", "ما يمديك تطير لاعبين ترا ", function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/bart3876478326746387/285ede5179a8787b175f3c9c212986dc/raw/9acf48c510d00319aa98e30311c0e04a84adf537/PHYSICS%2520GUN%2520V2%2520(DRAG%2520KO%2520PEOPLE"))()
+end)
+
+scriptSection:NewButton("سكربت راقدول", "...", function()
+    loadstring(game:HttpGet("https://gist.githubusercontent.com/H20CalibreYT/731b5052013a54de121debdd5e43fa6d/raw/"))()
+end)
+
+scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
+end)
+
+scriptSection:NewButton(" ", " ...? ", function()
+    loadstring(game:HttpGet(" "))()
+end)
+
+--Other
+local nothing = Window:NewTab(":D شكرا لانك استخدمت سكربت")
+local nothingSection = nothing:NewSection("اغاني اكواد")
+local nothingSection = nothing:NewSection("Relaxed Scene")
+
+local nothingSection = nothing:NewSection("1848354536")
+
+local nothingSection = nothing:NewSection("Parry Gripp - Raining Tacos")
+
+local nothingSection = nothing:NewSection("142376088")
+
+local nothingSection = nothing:NewSection("All Dropping 8 Bit Beats")
+
+local nothingSection = nothing:NewSection("9048375035")
+
+local nothingSection = nothing:NewSection("Diamonds")
+
+local nothingSection = nothing:NewSection("1846575559")
+
+local nothingSection = nothing:NewSection("Dele Mami D ريمكس")
+
+local nothingSection = nothing:NewSection("9043893278")
+
+local nothingSection = nothing:NewSection("Jayingee Yelling MOM I'M RECORDING! (Warning Loud)")
+
+local nothingSection = nothing:NewSection("2401760595")
+
+local nothingSection = nothing:NewSection("يلحقود")
+
+local nothingSection = nothing:NewSection("4533138868")
+
+local nothingSection = nothing:NewSection("داعش")
+
+local nothingSection = nothing:NewSection("901842963")
+
+local nothingSection = nothing:NewSection("ضرب")
+
+local nothingSection = nothing:NewSection("9117969687")
+
+local nothingSection = nothing:NewSection("Arabic Words (TN) بودن😈💢 ) سب")
+
+local nothingSection = nothing:NewSection("4984286551")
+
+local nothingSection = nothing:NewSection("Baby Goats 3 (SFX) 51 sec")
+
+local nothingSection = nothing:NewSection("9112743999")
+
+local nothingSection = nothing:NewSection("Baby Goats 43 (SFX)")
+
+local nothingSection = nothing:NewSection("9113237616")
+
+local nothingSection = nothing:NewSection("Baby Goats 22 (SFX) 2 sec")
+
+local nothingSection = nothing:NewSection("9113236414")
+
+local nothingSection = nothing:NewSection("MEME (It Is What It Is)")
+
+local nothingSection = nothing:NewSection("5023804206")
+
+local nothingSection = nothing:NewSection("im-a-gnome-meme-sound-effect-woo")
+
+local nothingSection = nothing:NewSection("5151347446")
+
+local nothingSection = nothing:NewSection("Meow!!!!!")
+
+local nothingSection = nothing:NewSection("723824843")
+
+local nothingSection = nothing:NewSection("Wey Noooo [MEME]")
+
+local nothingSection = nothing:NewSection("4907294065")
+
+local nothingSection = nothing:NewSection("Lo-fi Chill A")
+
+local nothingSection = nothing:NewSection("9043887091")
+
+local nothingSection = nothing:NewSection("All 8 Bit Now")
+
+local nothingSection = nothing:NewSection("9048376021")
+
+local nothingSection = nothing:NewSection("No Smoking")
+
+local nothingSection = nothing:NewSection("9047105533")
+
+local nothingSection = nothing:NewSection("Dombummel")
+
+local nothingSection = nothing:NewSection("1845736826")
+
+local nothingSection = nothing:NewSection("Smooth Vibes (c)")
+
+local nothingSection = nothing:NewSection("9044565954")
+
+local nothingSection = nothing:NewSection("Violet Clouds")
+
+local nothingSection = nothing:NewSection("9046864489")
+
+local nothingSection = nothing:NewSection("Sunday In Bed")
+
+local nothingSection = nothing:NewSection("9047104336")
+
+local nothingSection = nothing:NewSection("HORROR SCREAM 11 صراخ مزعج") 
+
+local nothingSection = nothing:NewSection("9043346124")
+
+local nothingSection = nothing:NewSection("Glamour International (b)")
+
+local nothingSection = nothing:NewSection("1842333602")
+
+local nothingSection = nothing:NewSection("اغنيه اجنبيه حزينه")
+
+local nothingSection = nothing:NewSection("6872126938")
+
+local nothingSection = nothing:NewSection("HOT HOT HOT !")
+
+local nothingSection = nothing:NewSection("6783714255 ")
+
+local nothingSection = nothing:NewSection("money")
+
+local nothingSection = nothing:NewSection("840080899") 
+
+local nothingSection = nothing:NewSection("اددددعسسس")
+
+local nothingSection = nothing:NewSection("1735260932")
+
+local nothingSection = nothing:NewSection("freeee")
+
+local nothingSection = nothing:NewSection("4829702007")
+
+local nothingSection = nothing:NewSection("صوت قطار عالي")
+
+local nothingSection = nothing:NewSection("3900067524")
+
+local nothingSection = nothing:NewSection("ERROR Windows 7")
+
+local nothingSection = nothing:NewSection("1166082641")
+
+local nothingSection = nothing:NewSection("Samsung")
+
+local nothingSection = nothing:NewSection("1107208252") 
+
+local nothingSection = nothing:NewSection("black bere WhatsApp") 
+
+local nothingSection = nothing:NewSection("6073491164")
+
+local nothingSection = nothing:NewSection("صراخ")
+
+local nothingSection = nothing:NewSection("8280196339") 
+
+local nothingSection = nothing:NewSection("ban ?")
+
+local nothingSection = nothing:NewSection("8819733010")
+
+local nothingSection = nothing:NewSection("طرب بس حزين")
+
+local nothingSection = nothing:NewSection("6893776529") 
+
+local nothingSection = nothing:NewSection("دباب (عن عن عن عننن)")
+
+local nothingSection = nothing:NewSection("6491883020")
+
+local nothingSection = nothing:NewSection("SUS")
+
+local nothingSection = nothing:NewSection("7083210943") 
+
+local nothingSection = nothing:NewSection("فورتنايت باتل باس SPAM")
+
+local nothingSection = nothing:NewSection("8835210928")
+
+local nothingSection = nothing:NewSection("هديها شوي لانه كرسي بينشق من تحتك من كثر ما انت شاد عليها (دحومي 999)")
+
+local nothingSection = nothing:NewSection("7644757406")
+
+local nothingSection = nothing:NewSection("FNFواقعي رد برد")
+
+local nothingSection = nothing:NewSection("6874146452")
+
+local nothingSection = nothing:NewSection("sans loob ?")
+
+local nothingSection = nothing:NewSection("8310237390")
+
+local nothingSection = nothing:NewSection("قتل كيوت 1sec") 
+
+local nothingSection = nothing:NewSection("7257241917")
+
+local nothingSection = nothing:NewSection("تعالي عند دادييي")  
+
+local nothingSection = nothing:NewSection("7984027399")
+
+local nothingSection = nothing:NewSection("اونيييي تشااااااااااان")
+
+local nothingSection = nothing:NewSection("8833800231")
+
+local nothingSection = nothing:NewSection("انيـ# اختـ# دلال") 
+
+local nothingSection = nothing:NewSection("5849978429")
+
+local nothingSection = nothing:NewSection("! عيال اليي يبيهه خكري خكريي")
+
+local nothingSection = nothing:NewSection("5561403815")
+
+local HHHH = Window:NewTab("مخصص لحمود")
+
+local HHHHH = HHHH:NewSection("ايها زطي اللعين ...")
+
+local HHHHH = HHHH:NewSection("منيججججججججججججججججج")
+
+local HHHHH = HHHH:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
