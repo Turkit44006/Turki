@@ -1,19 +1,6 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Turki's script", "DarkTheme")
 
---MAIN
-local Main = Window:NewTab("التواصل")
-
-local MainSection = Main:NewSection("V سنابي V")
-local MainSection = Main:NewSection("t44006")
-local MainSection = Main:NewSection("V حسابي الاصلي V")
-local MainSection = Main:NewSection("x_x511sd")
-local MainSection = Main:NewSection("V حسابي مايك V")
-local MainSection = Main:NewSection("Rttllp")
-local MainSection = Main:NewSection("V ديسكورد V")
-local MainSection = Main:NewSection("t44006")
-local MainSection = Main:NewSection("يالله حيه")
-
 --LOCAL SCRIPT
 local script = Window:NewTab("سكربتات")
 
