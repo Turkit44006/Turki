@@ -32,10 +32,6 @@ scriptSection:NewButton("سكربت بلوكس فروت مو HOHO", "Mama Hup", 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/MAMAhub1/Mmahub/main/README.md"))()    
 end)
 
-scriptSection:NewButton("سكربت بلوكس فروت HOHO ", "Hoho Hup", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/acsu123/HOHO_H/main/Loading_UI'))()   
-end)
-
 scriptSection:NewButton("بت ساميليتور", "...", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
 end)
@@ -281,3 +277,7 @@ local HHHHH = HHHH:NewSection("ايها زطي اللعين ...")
 local HHHHH = HHHH:NewSection("منيججججججججججججججججج")
 
 local HHHHH = HHHH:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
+
+local HHHDH = Window:NewTab("مخصص لكويحححه")
+
+local HHHDHH = HHHDH:NewSection("احبك")
