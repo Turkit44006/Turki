@@ -67,6 +67,10 @@ scriptSection:NewButton("Rivals T ", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/zeynwq/main/main/rivals1"))()()
 end)
 
+scriptSection:NewButton("MS M", " ", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
+end)
+
 --Other
 local nothing = Window:NewTab(":D شكرا لانك استخدمت سكربت")
 local nothingSection = nothing:NewSection("اغاني اكواد")
