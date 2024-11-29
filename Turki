@@ -19,7 +19,7 @@ local MainSection = Main:NewSection("اررحبب")
 
 local kweh = Window:NewTab("B5 سكربتات B5")
 
-local kweha = kweh:NewSection("للي يشوف الي بكتبه (كويحه مصاص ازباب)")
+local kweha = kweh:NewSection("احبك")
 
 kweha:NewButton("infinite yield", "...?", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
@@ -34,6 +34,10 @@ kweha:NewButton("Rivals D", "...?", function()
 local response = game:HttpGet(scriptURL)
 local executeScript = loadstring(response)
 executeScript()
+end)
+
+kweha:NewButton("STEVE", "murdur shirif", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
 end)
 
 kweha:NewButton("Rivals T ", " ", function()
@@ -80,20 +84,17 @@ scriptSection:NewButton("Survive and Kill the Killers in Area51", " ", function(
     loadstring(game:HttpGet("https://raw.githubusercontent.com/CasperFlyModz/discord.gg-rips/main/SurviveandKilltheKillersinArea51.lua"))()
 end)
 
-scriptSection:NewButton("Rivals D ", " ...? ", function()
-    local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua'
-local response = game:HttpGet(scriptURL)
-local executeScript = loadstring(response)
-executeScript()
-end)
+local HHHH = Window:NewTab("خاص لحمود")
 
-scriptSection:NewButton("Rivals T ", " ", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/zeynwq/main/main/rivals1"))()()
-end)
+local HHHHH = HHHH:NewSection("ايها زطي اللعين ...")
 
-scriptSection:NewButton("MS M", " ", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
-end)
+local HHHHH = HHHH:NewSection("منيججججججججججججججججج")
+
+local HHHHH = HHHH:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
+
+local HHHDH = Window:NewTab("خاص لكويحححح")
+
+local HHHDHH = HHHDH:NewSection("احبك")
 
 --Other
 local nothing = Window:NewTab(":D شكرا لانك استخدمت سكربت")
@@ -293,15 +294,3 @@ local nothingSection = nothing:NewSection("5849978429")
 local nothingSection = nothing:NewSection("! عيال اليي يبيهه خكري خكريي")
 
 local nothingSection = nothing:NewSection("5561403815")
-
-local HHHH = Window:NewTab("خاص لحمود")
-
-local HHHHH = HHHH:NewSection("ايها زطي اللعين ...")
-
-local HHHHH = HHHH:NewSection("منيججججججججججججججججج")
-
-local HHHHH = HHHH:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
-
-local HHHDH = Window:NewTab("خاص لكويحححح")
-
-local HHHDHH = HHHDH:NewSection("احبك")
