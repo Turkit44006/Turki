@@ -71,24 +71,24 @@ scriptSection:NewButton("MS M", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
 end)
 
-local kweh = Window:NewTab("B5 سكربتات B5")
+local kweha = kweha:NewTab("B5 سكربتات B5")
 
-scriptSection:NewButton("infinite yield", "...?", function()
+kweha:NewButton("infinite yield", "...?", function()
     loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
 end)
 
-scriptSection:NewButton("D", "...?", function()
+kweha:NewButton("D", "...?", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
 end)
 
-scriptSection:NewButton("Rivals D", "...?", function()
+kweha:NewButton("Rivals D", "...?", function()
     local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua'
 local response = game:HttpGet(scriptURL)
 local executeScript = loadstring(response)
 executeScript()
 end)
 
-local MainSection = kweh:NewSection("كويحه مص")
+local MainSection = kweha:NewSection("للي يشوف الي بكتبه (كويحه مصاص ازباب)")
 
 --Other
 local nothing = Window:NewTab(":D شكرا لانك استخدمت سكربت")
