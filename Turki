@@ -36,9 +36,13 @@ local executeScript = loadstring(response)
 executeScript()
 end)
 
-local script = Window:NewTab("سكربتات")
+kweha:NewButton("Rivals T ", " ", function()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/zeynwq/main/main/rivals1"))()()
+end)
 
-local scriptSection = script:NewSection("T4 سكربتات T4")
+local script = Window:NewTab("T4 سكربتات T4")
+
+local scriptSection = script:NewSection(" زطي ؟ ")
 
 scriptSection:NewButton("سكربت ماب البيوت", "...?", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMael7/NewIceHub/main/Brookhaven"))()
@@ -89,25 +93,6 @@ end)
 
 scriptSection:NewButton("MS M", " ", function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
-end)
-
-local kweh = Window:NewTab("B5 سكربتات B5")
-
-local kweha = kweh:NewSection("للي يشوف الي بكتبه (كويحه مصاص ازباب)")
-
-kweha:NewButton("infinite yield", "...?", function()
-    loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
-end)
-
-kweha:NewButton("D", "...?", function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/MVSD%20UPD2.lua"))()
-end)
-
-kweha:NewButton("Rivals D", "...?", function()
-    local scriptURL = 'https://raw.githubusercontent.com/Sheeshablee73/Scriptss/main/RivalsUPD2.lua'
-local response = game:HttpGet(scriptURL)
-local executeScript = loadstring(response)
-executeScript()
 end)
 
 --Other
@@ -309,7 +294,7 @@ local nothingSection = nothing:NewSection("! عيال اليي يبيهه خكر
 
 local nothingSection = nothing:NewSection("5561403815")
 
-local HHHH = Window:NewTab("مخصص لحمود")
+local HHHH = Window:NewTab("خاص لحمود")
 
 local HHHHH = HHHH:NewSection("ايها زطي اللعين ...")
 
@@ -317,6 +302,6 @@ local HHHHH = HHHH:NewSection("منيججججججججججججججججج")
 
 local HHHHH = HHHH:NewSection("احلى شي انك تقدر تكتب بدون هاشتاقات  و مصه و حكه وكحه")
 
-local HHHDH = Window:NewTab("مخصص لكويحححه")
+local HHHDH = Window:NewTab("خاص لكويحححح")
 
 local HHHDHH = HHHDH:NewSection("احبك")
